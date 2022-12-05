@@ -6,5 +6,5 @@
   
 - 🌐 I'm currently developing: https://modulat.io
 - 🌱 I’m currently learning Rust, Typescript, Java and .NET
-- 🎓 I'm currently focused on: Lethal League, SSBM, Podcasting, Bouldering
+- 🎓 I'm currently focused on: Lethal League, SSBP+, Podcasting, Bouldering
 - 😄 Pronouns: He/Him
