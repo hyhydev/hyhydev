@@ -5,7 +5,7 @@
   
   
 - 🌐 I'm developing: https://modulat.io
-- 🌳 I'm experienced with: Typescript, React, Next, Node, and Python
-- 🌱 I’m learning: Rust, Java, and .NET
-- 🎓 I'm enjoying: Lethal League, P+, Podcasting, and Bouldering
+- 🌳 I'm experienced with: Typescript, React, Next, Node, Python, Lua, and Pico8
+- 🌱 I’m learning: Rust, Go, Java, and .NET
+- 🎓 I'm enjoying: Playdate GameDev, Lethal League Blaze, P+, Podcasting, and Bouldering
 - 😄 Pronouns: He/Him
