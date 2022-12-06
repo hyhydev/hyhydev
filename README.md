@@ -4,7 +4,8 @@
 - 🔭 I’m currently working as a Software Developer at Scott Logic
   
   
-- 🌐 I'm currently developing: https://modulat.io
-- 🌱 I’m currently learning Rust, Typescript, Java and .NET
-- 🎓 I'm currently focused on: Lethal League, SSBP+, Podcasting, Bouldering
+- 🌐 I'm developing: https://modulat.io
+- 🌳 I'm experienced with: Typescript, React, Next, Node, and Python
+- 🌱 I’m learning: Rust, Java, and .NET
+- 🎓 I'm enjoying: Lethal League, P+, Podcasting, and Bouldering
 - 😄 Pronouns: He/Him
