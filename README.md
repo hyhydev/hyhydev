@@ -10,4 +10,4 @@
 - 🌱 I’m learning: Rust, Java, and .NET
 - 🎓 I'm enjoying: Playdate GameDev, Lethal League Blaze, P+, Podcasting, and Bouldering
 - 😄 Pronouns: He/Him
-- 📍 Location: UK
+- 📍  Location: UK
