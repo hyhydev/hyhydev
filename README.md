@@ -5,7 +5,7 @@
   
   
 - 👨‍🏫 I'm a fully qualified (QTS) Computer Science teacher
-- 🌐 I'm developing: https://modulat.io
+- 🌐 I'm developing: https://hyhy.gg and https://modulat.io
 - 🌳 I'm writing: Typescript, React, Next, Node, Python, Lua, and Pico8
 - 🌱 I’m learning: Rust, Java, and .NET
 - 🎓 I'm enjoying: Playdate GameDev, Lethal League Blaze, P+, Podcasting, and Bouldering
